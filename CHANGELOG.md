@@ -33,6 +33,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   software engineering.
 - Standardized academic attribution and author information.
 
+### Licensing
+
+- Clarified the scope of the MIT License.
+- Distinguished original contributions from academic starter code.
+- Documented instructor-granted redistribution permission.
+- Preserved original academic attribution and source-code comments.
+- Clarified third-party copyright and licensing obligations.
+- Documented outstanding third-party source-code provenance.
+
 ## [1.0.0] - Initial public version
 
 ### Added
@@ -53,7 +62,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Compatibility with modern security configurations requires evaluation.
 - Automated regression testing is not yet established.
 - A hardened reference application is not currently distributed.
-- Source-code provenance and licensing require verification.
+- Third-party source-code provenance requires further verification.
 - Implementation is not intended for production deployment.
 
 ---
@@ -65,3 +74,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - [GNU Debugger Documentation](https://sourceware.org/gdb/documentation/)
 - [GCC Documentation](https://gcc.gnu.org/onlinedocs/)
 - [CWE-121 — Stack-based Buffer Overflow](https://cwe.mitre.org/data/definitions/121.html)
+- [MIT License](https://opensource.org/license/mit)

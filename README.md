@@ -347,14 +347,25 @@ Please refer to the following documents before submitting changes:
 
 ## Academic Attribution
 
-This project was originally developed as part of the Security of
-Computer and Communication Systems coursework at:
+This project was originally developed as part of the
+Security of Computer and Communication Systems coursework at:
 
 **Department of Computer Science and Engineering**  
 University of Ioannina  
 Ioannina, Greece
 
 **Course:** MYE007 — Security of Computer and Communication Systems
+
+The original assignment and starter code were provided
+by the course instructor.
+
+The original instructor-provided text and comments are
+preserved. Public redistribution of the instructor's
+materials is permitted by the instructor, subject to
+the preservation of this material.
+
+The student's original contributions are distinguished
+from instructor-provided and third-party materials.
 
 ## Author
 
