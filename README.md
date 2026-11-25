@@ -364,7 +364,16 @@ Ioannina, Greece
 
 ## License
 
-See the [LICENSE](LICENSE) file for repository licensing information.
+The original contributions authored by Christos-Grigorios
+Gkovaris are licensed under the [MIT License](LICENSE),
+to the extent that he holds the applicable copyright.
 
-Third-party materials and academic resources remain subject to
-their respective copyright and licensing requirements.
+The original academic starter code was provided as part
+of the University of Ioannina coursework.
+
+Third-party components and academic instructional materials
+are not covered by the repository's MIT license and remain
+subject to their respective copyright and licensing terms.
+
+Redistribution permissions for the original academic
+starter code and instructional materials remain unverified.
